@@ -21,7 +21,7 @@ public class HelloController {
         }
 
         // Return the greeting message with the IPv4 address
-        return "Greetings from  'Malisetty Rohini' deployed JAVA APP in KUBERNETES..!!! Host private IPv4 Address: " + ipAddress;
+        return "Greetings from  'Malisetty Rohini' deployed JAVA APP in minikube KUBERNETES..!!! Host private IPv4 Address: " + ipAddress;
     }
     
 }
