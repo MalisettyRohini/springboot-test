@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: springboot
-        image: rohini117/springboot:8081
+        image: rohini117/java_springboot:8081
         ports:
         - containerPort: 8081
         resources:
